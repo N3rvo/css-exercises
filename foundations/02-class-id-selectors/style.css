@@ -1,0 +1,21 @@
+.pink_background{
+    background-color: rgb(248, 182, 193);
+}
+
+#firstDiv{
+    font-size: xx-large;
+    color: rgb(9, 9, 207);
+}
+
+#second_paragraph{
+    font-size: x-large;
+}
+
+#secondDiv{
+    background-color: rgb(124, 238, 124);
+    font-size: x-large;
+    font-weight: bold;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
